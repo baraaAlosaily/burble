@@ -1,0 +1,127 @@
+{
+    "footer":{
+        "icons":[
+            "/burble/twitter.svg",
+            "/burble/insta.svg",
+            "/burble/snap.svg"
+        ],
+        "logo":"/burble/small.png",
+        "copyRight":"Hello@BurbleTheFirst.com"
+    },
+    "navbar":[
+        {
+            "name":"Home",
+            "link":"/"
+        },
+        {
+            "name":"About",
+            "link":"/about"
+        },
+        {
+            "name":"What we do",
+            "link":"#"
+        },
+        {
+            "name":"Burble Originals",
+            "link":"#"
+        },
+        {
+            "name":"Contact Us",
+            "link":"#"
+        }
+    ],
+    "all":[
+        {
+            "id":1,
+            "image":"/burble/j2j/image.png",
+            "logo":"/burble/j2j/logo.png",
+            "top":"J2J, from January to July. Seven months packed with events, exhibitions, educational talks, screenings, art showcases, fashion & jewellery pop-ups, food & beverage experiences and more. It’s all happening! And it all to die for!",
+            "line":"JANUARY",
+            "liftSide":{
+                "title":"January 25-27th",
+                "status":"Inside the palce",
+                "country":"Riyadh, Saudi Arabia"
+            },
+            "rightSide":{
+                "title":"Vol.2",
+                "content":"During the past century, the Kingdom of Saudi Arabia went through two life-altering social events. First, His Majesty King Abdulaziz, may God rest his soul, built a modern state, thereby uniting the country’s people, citizens and otherwise, for the first time in history. A hundred years later, the second major social event took place: Saudi Vision 2030, created by the Founder’s great-grandson, His Royal Highness Prince Mohammed bin Salman, Crown Prince and Prime Minister, may God protect him. The Vision changed the way we think: Concepts and theories revolving around economic progress evolved; Innovative strategies were put into place; The fuse to an industrial, economic, and creative boom was lit. BURBLE aims to express this vision by holding contemporary events that bring ten artists from different segments of society, Saudi and non-Saudi. This all-inclusive 4-day affair, including many art forms and involving those who made a name for themselves and artists whose names are in the making, will once again bring us together, and under the very best circumstances at that."
+            }
+
+        },{
+            "id":2,
+            "image":"burble/cakeMuseum/image.png",
+            "logo":"burble/cakeMuseum/logo.png",
+            "top":"J2J, from January to July. Seven months packed with events, exhibitions, educational talks, screenings, art showcases, fashion & jewellery pop-ups, food & beverage experiences and more. It’s all happening! And it all to die for!",
+            "line":"JANUARY",
+            "liftSide":{
+                "title":"January 25-27th",
+                "status":"Inside the palce",
+                "country":"Riyadh, Saudi Arabia"
+            },
+            "rightSide":{
+                "title":"Vol.2",
+                "content":"During the past century, the Kingdom of Saudi Arabia went through two life-altering social events. First, His Majesty King Abdulaziz, may God rest his soul, built a modern state, thereby uniting the country’s people, citizens and otherwise, for the first time in history. A hundred years later, the second major social event took place: Saudi Vision 2030, created by the Founder’s great-grandson, His Royal Highness Prince Mohammed bin Salman, Crown Prince and Prime Minister, may God protect him. The Vision changed the way we think: Concepts and theories revolving around economic progress evolved; Innovative strategies were put into place; The fuse to an industrial, economic, and creative boom was lit. BURBLE aims to express this vision by holding contemporary events that bring ten artists from different segments of society, Saudi and non-Saudi. This all-inclusive 4-day affair, including many art forms and involving those who made a name for themselves and artists whose names are in the making, will once again bring us together, and under the very best circumstances at that."
+            }
+        },{
+            "id":3,
+            "image":"burble/vol2/image.png",
+            "logo":"burble/vol2/logo.png",
+            "top":"J2J, from January to July. Seven months packed with events, exhibitions, educational talks, screenings, art showcases, fashion & jewellery pop-ups, food & beverage experiences and more. It’s all happening! And it all to die for!",
+            "line":"JANUARY",
+            "liftSide":{
+                "title":"January 25-27th",
+                "status":"Inside the palce",
+                "country":"Riyadh, Saudi Arabia"
+            },
+            "rightSide":{
+                "title":"Vol.2",
+                "content":"During the past century, the Kingdom of Saudi Arabia went through two life-altering social events. First, His Majesty King Abdulaziz, may God rest his soul, built a modern state, thereby uniting the country’s people, citizens and otherwise, for the first time in history. A hundred years later, the second major social event took place: Saudi Vision 2030, created by the Founder’s great-grandson, His Royal Highness Prince Mohammed bin Salman, Crown Prince and Prime Minister, may God protect him. The Vision changed the way we think: Concepts and theories revolving around economic progress evolved; Innovative strategies were put into place; The fuse to an industrial, economic, and creative boom was lit. BURBLE aims to express this vision by holding contemporary events that bring ten artists from different segments of society, Saudi and non-Saudi. This all-inclusive 4-day affair, including many art forms and involving those who made a name for themselves and artists whose names are in the making, will once again bring us together, and under the very best circumstances at that."
+            }
+        },{
+            "id":4,
+            "image":"burble/theBeginningImage/image.png",
+            "logo":"burble/theBeginningImage/logo.png",
+            "top":"J2J, from January to July. Seven months packed with events, exhibitions, educational talks, screenings, art showcases, fashion & jewellery pop-ups, food & beverage experiences and more. It’s all happening! And it all to die for!",
+            "line":"JANUARY",
+            "liftSide":{
+                "title":"January 25-27th",
+                "status":"Inside the palce",
+                "country":"Riyadh, Saudi Arabia"
+            },
+            "rightSide":{
+                "title":"Vol.2",
+                "content":"During the past century, the Kingdom of Saudi Arabia went through two life-altering social events. First, His Majesty King Abdulaziz, may God rest his soul, built a modern state, thereby uniting the country’s people, citizens and otherwise, for the first time in history. A hundred years later, the second major social event took place: Saudi Vision 2030, created by the Founder’s great-grandson, His Royal Highness Prince Mohammed bin Salman, Crown Prince and Prime Minister, may God protect him. The Vision changed the way we think: Concepts and theories revolving around economic progress evolved; Innovative strategies were put into place; The fuse to an industrial, economic, and creative boom was lit. BURBLE aims to express this vision by holding contemporary events that bring ten artists from different segments of society, Saudi and non-Saudi. This all-inclusive 4-day affair, including many art forms and involving those who made a name for themselves and artists whose names are in the making, will once again bring us together, and under the very best circumstances at that."
+            }
+        },{
+            "id":5,
+            "image":"burble/burblesImage/image.png",
+            "logo":"burble/burblesImage/logo.png",
+            "top":"J2J, from January to July. Seven months packed with events, exhibitions, educational talks, screenings, art showcases, fashion & jewellery pop-ups, food & beverage experiences and more. It’s all happening! And it all to die for!",
+            "line":"JANUARY",
+            "liftSide":{
+                "title":"January 25-27th",
+                "status":"Inside the palce",
+                "country":"Riyadh, Saudi Arabia"
+            },
+            "rightSide":{
+                "title":"Vol.2",
+                "content":"During the past century, the Kingdom of Saudi Arabia went through two life-altering social events. First, His Majesty King Abdulaziz, may God rest his soul, built a modern state, thereby uniting the country’s people, citizens and otherwise, for the first time in history. A hundred years later, the second major social event took place: Saudi Vision 2030, created by the Founder’s great-grandson, His Royal Highness Prince Mohammed bin Salman, Crown Prince and Prime Minister, may God protect him. The Vision changed the way we think: Concepts and theories revolving around economic progress evolved; Innovative strategies were put into place; The fuse to an industrial, economic, and creative boom was lit. BURBLE aims to express this vision by holding contemporary events that bring ten artists from different segments of society, Saudi and non-Saudi. This all-inclusive 4-day affair, including many art forms and involving those who made a name for themselves and artists whose names are in the making, will once again bring us together, and under the very best circumstances at that."
+            }
+        },{
+            "id":6,
+            "image":"burble/exectiveLab/image.png",
+            "logo":"burble/exectiveLab/logo.png",
+            "top":"J2J, from January to July. Seven months packed with events, exhibitions, educational talks, screenings, art showcases, fashion & jewellery pop-ups, food & beverage experiences and more. It’s all happening! And it all to die for!",
+            "line":"JANUARY",
+            "liftSide":{
+                "title":"January 25-27th",
+                "status":"Inside the palce",
+                "country":"Riyadh, Saudi Arabia"
+            },
+            "rightSide":{
+                "title":"Vol.2",
+                "content":"During the past century, the Kingdom of Saudi Arabia went through two life-altering social events. First, His Majesty King Abdulaziz, may God rest his soul, built a modern state, thereby uniting the country’s people, citizens and otherwise, for the first time in history. A hundred years later, the second major social event took place: Saudi Vision 2030, created by the Founder’s great-grandson, His Royal Highness Prince Mohammed bin Salman, Crown Prince and Prime Minister, may God protect him. The Vision changed the way we think: Concepts and theories revolving around economic progress evolved; Innovative strategies were put into place; The fuse to an industrial, economic, and creative boom was lit. BURBLE aims to express this vision by holding contemporary events that bring ten artists from different segments of society, Saudi and non-Saudi. This all-inclusive 4-day affair, including many art forms and involving those who made a name for themselves and artists whose names are in the making, will once again bring us together, and under the very best circumstances at that."
+            }
+        }
+    ]
+}
